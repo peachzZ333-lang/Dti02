@@ -1,0 +1,15 @@
+ /* selector { property: value; property: value; ....} */
+ h1 {
+     color: red;
+     text-align: center;
+ }
+
+ #wow {
+     color: #0000ff;
+     text-align: center;
+ }
+
+ #woo {
+     color: rgb(43, 238, 17);
+     text-align: center;
+ }
